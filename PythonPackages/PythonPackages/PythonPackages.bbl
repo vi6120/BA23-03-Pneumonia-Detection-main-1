@@ -1,0 +1,2973 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{anyt/global//global/global}
+  \entry{OpenNN:2020}{online}{}
+    \name{editor}{1}{}{%
+      {{hash=AITL}{%
+         family={Artificial Intelligence\bibnamedelima Techniques},
+         familyi={A\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim
+  T\bibinitperiod},
+         given={Ltd},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AITL1}
+    \strng{fullhash}{AITL1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{AIT20}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{title}{OpenNN}
+    \verb{url}
+    \verb https://www.opennn.net/
+    \endverb
+    \field{year}{2020}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{Theano:2016}{article}{}
+    \name{author}{112}{}{%
+      {{hash=ARR}{%
+         family={Al-Rfou},
+         familyi={A\bibinithyphendelim R\bibinitperiod},
+         given={Rami},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=AG}{%
+         family={Alain},
+         familyi={A\bibinitperiod},
+         given={Guillaume},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=AA}{%
+         family={Almahairi},
+         familyi={A\bibinitperiod},
+         given={Amjad},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=AC}{%
+         family={Angermueller},
+         familyi={A\bibinitperiod},
+         given={Christof},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=BD}{%
+         family={Bahdanau},
+         familyi={B\bibinitperiod},
+         given={Dzmitry},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=BN}{%
+         family={Ballas},
+         familyi={B\bibinitperiod},
+         given={Nicolas},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=BF}{%
+         family={Bastien},
+         familyi={B\bibinitperiod},
+         given={Fr\'ed\'eric},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Bayer},
+         familyi={B\bibinitperiod},
+         given={Justin},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={Belikov},
+         familyi={B\bibinitperiod},
+         given={Anatoly},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={Belopolsky},
+         familyi={B\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BY}{%
+         family={Bengio},
+         familyi={B\bibinitperiod},
+         given={Yoshua},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={Bergeron},
+         familyi={B\bibinitperiod},
+         given={Arnaud},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Bergstra},
+         familyi={B\bibinitperiod},
+         given={James},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=BV}{%
+         family={Bisson},
+         familyi={B\bibinitperiod},
+         given={Valentin},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={{Bleecher Snyder}},
+         familyi={B\bibinitperiod},
+         given={Josh},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=BN}{%
+         family={Bouchard},
+         familyi={B\bibinitperiod},
+         given={Nicolas},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=BLN}{%
+         family={Boulanger-Lewandowski},
+         familyi={B\bibinithyphendelim L\bibinitperiod},
+         given={Nicolas},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=BX}{%
+         family={Bouthillier},
+         familyi={B\bibinitperiod},
+         given={Xavier},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=dBA}{%
+         prefix={de},
+         prefixi={d\bibinitperiod},
+         family={Br\'ebisson},
+         familyi={B\bibinitperiod},
+         given={Alexandre},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BO}{%
+         family={Breuleux},
+         familyi={B\bibinitperiod},
+         given={Olivier},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=CPL}{%
+         family={Carrier},
+         familyi={C\bibinitperiod},
+         given={Pierre-Luc},
+         giveni={P\bibinithyphendelim L\bibinitperiod},
+      }}%
+      {{hash=CK}{%
+         family={Cho},
+         familyi={C\bibinitperiod},
+         given={Kyunghyun},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=CJ}{%
+         family={Chorowski},
+         familyi={C\bibinitperiod},
+         given={Jan},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=CP}{%
+         family={Christiano},
+         familyi={C\bibinitperiod},
+         given={Paul},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=CT}{%
+         family={Cooijmans},
+         familyi={C\bibinitperiod},
+         given={Tim},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=CMA}{%
+         family={C\^ot\'e},
+         familyi={C\bibinitperiod},
+         given={Marc-Alexandre},
+         giveni={M\bibinithyphendelim A\bibinitperiod},
+      }}%
+      {{hash=CM}{%
+         family={C\^ot\'e},
+         familyi={C\bibinitperiod},
+         given={Myriam},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=CA}{%
+         family={Courville},
+         familyi={C\bibinitperiod},
+         given={Aaron},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=DYN}{%
+         family={Dauphin},
+         familyi={D\bibinitperiod},
+         given={Yann\bibnamedelima N.},
+         giveni={Y\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=DO}{%
+         family={Delalleau},
+         familyi={D\bibinitperiod},
+         given={Olivier},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={Demouth},
+         familyi={D\bibinitperiod},
+         given={Julien},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=DG}{%
+         family={Desjardins},
+         familyi={D\bibinitperiod},
+         given={Guillaume},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=DS}{%
+         family={Dieleman},
+         familyi={D\bibinitperiod},
+         given={Sander},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=DL}{%
+         family={Dinh},
+         familyi={D\bibinitperiod},
+         given={Laurent},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=DM}{%
+         family={Ducoffe},
+         familyi={D\bibinitperiod},
+         given={M\'elanie},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=DV}{%
+         family={Dumoulin},
+         familyi={D\bibinitperiod},
+         given={Vincent},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=ES}{%
+         family={{Ebrahimi Kahou}},
+         familyi={E\bibinitperiod},
+         given={Samira},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=ED}{%
+         family={Erhan},
+         familyi={E\bibinitperiod},
+         given={Dumitru},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=FZ}{%
+         family={Fan},
+         familyi={F\bibinitperiod},
+         given={Ziye},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=FO}{%
+         family={Firat},
+         familyi={F\bibinitperiod},
+         given={Orhan},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=GM}{%
+         family={Germain},
+         familyi={G\bibinitperiod},
+         given={Mathieu},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=GX}{%
+         family={Glorot},
+         familyi={G\bibinitperiod},
+         given={Xavier},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=GI}{%
+         family={Goodfellow},
+         familyi={G\bibinitperiod},
+         given={Ian},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=GM}{%
+         family={Graham},
+         familyi={G\bibinitperiod},
+         given={Matt},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=GC}{%
+         family={Gulcehre},
+         familyi={G\bibinitperiod},
+         given={Caglar},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=HP}{%
+         family={Hamel},
+         familyi={H\bibinitperiod},
+         given={Philippe},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=HI}{%
+         family={Harlouchet},
+         familyi={H\bibinitperiod},
+         given={Iban},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=HJP}{%
+         family={Heng},
+         familyi={H\bibinitperiod},
+         given={Jean-Philippe},
+         giveni={J\bibinithyphendelim P\bibinitperiod},
+      }}%
+      {{hash=HB}{%
+         family={Hidasi},
+         familyi={H\bibinitperiod},
+         given={Bal\'azs},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=HS}{%
+         family={Honari},
+         familyi={H\bibinitperiod},
+         given={Sina},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=JA}{%
+         family={Jain},
+         familyi={J\bibinitperiod},
+         given={Arjun},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=JS}{%
+         family={Jean},
+         familyi={J\bibinitperiod},
+         given={S\'ebastien},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=JK}{%
+         family={Jia},
+         familyi={J\bibinitperiod},
+         given={Kai},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=KM}{%
+         family={Korobov},
+         familyi={K\bibinitperiod},
+         given={Mikhail},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=KV}{%
+         family={Kulkarni},
+         familyi={K\bibinitperiod},
+         given={Vivek},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=LA}{%
+         family={Lamb},
+         familyi={L\bibinitperiod},
+         given={Alex},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=LP}{%
+         family={Lamblin},
+         familyi={L\bibinitperiod},
+         given={Pascal},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=LE}{%
+         family={Larsen},
+         familyi={L\bibinitperiod},
+         given={Eric},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=LC}{%
+         family={Laurent},
+         familyi={L\bibinitperiod},
+         given={C\'esar},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=LS}{%
+         family={Lee},
+         familyi={L\bibinitperiod},
+         given={Sean},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=LS}{%
+         family={Lefrancois},
+         familyi={L\bibinitperiod},
+         given={Simon},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=LS}{%
+         family={Lemieux},
+         familyi={L\bibinitperiod},
+         given={Simon},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=LN}{%
+         family={L\'eonard},
+         familyi={L\bibinitperiod},
+         given={Nicholas},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=LZ}{%
+         family={Lin},
+         familyi={L\bibinitperiod},
+         given={Zhouhan},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=LJA}{%
+         family={Livezey},
+         familyi={L\bibinitperiod},
+         given={Jesse\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=LC}{%
+         family={Lorenz},
+         familyi={L\bibinitperiod},
+         given={Cory},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=LJ}{%
+         family={Lowin},
+         familyi={L\bibinitperiod},
+         given={Jeremiah},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=MQ}{%
+         family={Ma},
+         familyi={M\bibinitperiod},
+         given={Qianli},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=MPA}{%
+         family={Manzagol},
+         familyi={M\bibinitperiod},
+         given={Pierre-Antoine},
+         giveni={P\bibinithyphendelim A\bibinitperiod},
+      }}%
+      {{hash=MO}{%
+         family={Mastropietro},
+         familyi={M\bibinitperiod},
+         given={Olivier},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=MRT}{%
+         family={McGibbon},
+         familyi={M\bibinitperiod},
+         given={Robert\bibnamedelima T.},
+         giveni={R\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=MR}{%
+         family={Memisevic},
+         familyi={M\bibinitperiod},
+         given={Roland},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=vMB}{%
+         prefix={van},
+         prefixi={v\bibinitperiod},
+         family={Merri\"enboer},
+         familyi={M\bibinitperiod},
+         given={Bart},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=MV}{%
+         family={Michalski},
+         familyi={M\bibinitperiod},
+         given={Vincent},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=MM}{%
+         family={Mirza},
+         familyi={M\bibinitperiod},
+         given={Mehdi},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=OA}{%
+         family={Orlandi},
+         familyi={O\bibinitperiod},
+         given={Alberto},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=PC}{%
+         family={Pal},
+         familyi={P\bibinitperiod},
+         given={Christopher},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=PR}{%
+         family={Pascanu},
+         familyi={P\bibinitperiod},
+         given={Razvan},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=PM}{%
+         family={Pezeshki},
+         familyi={P\bibinitperiod},
+         given={Mohammad},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=RC}{%
+         family={Raffel},
+         familyi={R\bibinitperiod},
+         given={Colin},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=RD}{%
+         family={Renshaw},
+         familyi={R\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=RM}{%
+         family={Rocklin},
+         familyi={R\bibinitperiod},
+         given={Matthew},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=RA}{%
+         family={Romero},
+         familyi={R\bibinitperiod},
+         given={Adriana},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=RM}{%
+         family={Roth},
+         familyi={R\bibinitperiod},
+         given={Markus},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SP}{%
+         family={Sadowski},
+         familyi={S\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Salvatier},
+         familyi={S\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SF}{%
+         family={Savard},
+         familyi={S\bibinitperiod},
+         given={Fran\c{c}ois},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Schl\"uter},
+         familyi={S\bibinitperiod},
+         given={Jan},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Schulman},
+         familyi={S\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SG}{%
+         family={Schwartz},
+         familyi={S\bibinitperiod},
+         given={Gabriel},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=SIV}{%
+         family={Serban},
+         familyi={S\bibinitperiod},
+         given={Iulian\bibnamedelima Vlad},
+         giveni={I\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Serdyuk},
+         familyi={S\bibinitperiod},
+         given={Dmitriy},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Shabanian},
+         familyi={S\bibinitperiod},
+         given={Samira},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SE}{%
+         family={Simon},
+         familyi={S\bibinitperiod},
+         given={\'Etienne},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Spieckermann},
+         familyi={S\bibinitperiod},
+         given={Sigurd},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SSR}{%
+         family={Subramanyam},
+         familyi={S\bibinitperiod},
+         given={S.\bibnamedelima Ramana},
+         giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Sygnowski},
+         familyi={S\bibinitperiod},
+         given={Jakub},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=TJ}{%
+         family={Tanguay},
+         familyi={T\bibinitperiod},
+         given={J\'er\'emie},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=vTG}{%
+         prefix={van},
+         prefixi={v\bibinitperiod},
+         family={Tulder},
+         familyi={T\bibinitperiod},
+         given={Gijs},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=TJ}{%
+         family={Turian},
+         familyi={T\bibinitperiod},
+         given={Joseph},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=US}{%
+         family={Urban},
+         familyi={U\bibinitperiod},
+         given={Sebastian},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=VP}{%
+         family={Vincent},
+         familyi={V\bibinitperiod},
+         given={Pascal},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=VF}{%
+         family={Visin},
+         familyi={V\bibinitperiod},
+         given={Francesco},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=dVH}{%
+         prefix={de},
+         prefixi={d\bibinitperiod},
+         family={Vries},
+         familyi={V\bibinitperiod},
+         given={Harm},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=WFD}{%
+         family={Warde-Farley},
+         familyi={W\bibinithyphendelim F\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=WDJ}{%
+         family={Webb},
+         familyi={W\bibinitperiod},
+         given={Dustin\bibnamedelima J.},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=WM}{%
+         family={Willson},
+         familyi={W\bibinitperiod},
+         given={Matthew},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=XK}{%
+         family={Xu},
+         familyi={X\bibinitperiod},
+         given={Kelvin},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=XL}{%
+         family={Xue},
+         familyi={X\bibinitperiod},
+         given={Lijun},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=YL}{%
+         family={Yao},
+         familyi={Y\bibinitperiod},
+         given={Li},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=ZS}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Saizheng},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=ZY}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Ying},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \keyw{Computer Science - Symbolic Computation, Computer Science - Learning,
+  Computer Science - Mathematical Software}
+    \strng{namehash}{ARR+1}
+  \strng{fullhash}{ARRAGAAACBDBNBFBJBABABYBABJBVBJBNBLNBXBAdBOCPLCKCJCPCTCMACMCADYNDODJDGDSDLDMDVESEDFZFOGMGXGIGMGCHPHIHJPHBHSJAJSJKKMKVLALPLELCLSLSLSLNLZLJALCLJMQMPAMOMRTMRMBvMVMMOAPCPRPMRCRDRMRARMSPSJSFSJSJSGSIVSDSSSESSSSRSJTJTGvTJUSVPVFVHdWFDWDJWMXKXLYLZSZY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{AR+16}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{note}{\href{../../ExterneDokumente/Framework/1605.02688.pdf}{[pdf]},
+  \href{http://www.deeplearning.net/software/theano/}{[Link]}}
+    \field{title}{{Theano: A {Python} framework for fast computation of
+  mathematical expressions}}
+    \verb{url}
+    \verb http://arxiv.org/abs/1605.02688
+    \endverb
+    \field{volume}{abs/1605.02688}
+    \field{journaltitle}{arXiv e-prints}
+    \field{eprintclass}{cs.SC}
+    \field{month}{05}
+    \field{year}{2016}
+  \endentry
+
+  \entry{Abadi:2016}{inproceedings}{}
+    \name{author}{22}{}{%
+      {{hash=AM}{%
+         family={Abadi},
+         familyi={A\bibinitperiod},
+         given={Mart{\'\i}n},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BP}{%
+         family={Barham},
+         familyi={B\bibinitperiod},
+         given={Paul},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=CJ}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Jianmin},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=CZ}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Zhifeng},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=DA}{%
+         family={Davis},
+         familyi={D\bibinitperiod},
+         given={Andy},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={Dean},
+         familyi={D\bibinitperiod},
+         given={Jeffrey},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=DM}{%
+         family={Devin},
+         familyi={D\bibinitperiod},
+         given={Matthieu},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=GS}{%
+         family={Ghemawat},
+         familyi={G\bibinitperiod},
+         given={Sanjay},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=IG}{%
+         family={Irving},
+         familyi={I\bibinitperiod},
+         given={Geoffrey},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=IM}{%
+         family={Isard},
+         familyi={I\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=KM}{%
+         family={Kudlur},
+         familyi={K\bibinitperiod},
+         given={Manjunath},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=LJ}{%
+         family={Levenberg},
+         familyi={L\bibinitperiod},
+         given={Josh},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=MR}{%
+         family={Monga},
+         familyi={M\bibinitperiod},
+         given={Rajat},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=MS}{%
+         family={Moore},
+         familyi={M\bibinitperiod},
+         given={Sherry},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=MDG}{%
+         family={Murray},
+         familyi={M\bibinitperiod},
+         given={Derek\bibnamedelima G.},
+         giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=SB}{%
+         family={Steiner},
+         familyi={S\bibinitperiod},
+         given={Benoit},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=TP}{%
+         family={Tucker},
+         familyi={T\bibinitperiod},
+         given={Paul},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=VV}{%
+         family={Vasudevan},
+         familyi={V\bibinitperiod},
+         given={Vijay},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=WP}{%
+         family={Warden},
+         familyi={W\bibinitperiod},
+         given={Pete},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=WM}{%
+         family={Wicke},
+         familyi={W\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=YY}{%
+         family={Yu},
+         familyi={Y\bibinitperiod},
+         given={Yuan},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=ZX}{%
+         family={Zheng},
+         familyi={Z\bibinitperiod},
+         given={Xiaoqiang},
+         giveni={X\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{USENIX} Association}%
+    }
+    \strng{namehash}{AM+1}
+    \strng{fullhash}{AMBPCJCZDADJDMGSIGIMKMLJMRMSMDGSBTPVVWPWMYYZX1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Aba+16}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{booktitle}{12\textsuperscript{th} {USENIX} Symposium on Operating
+  Systems Design and Implementation ({OSDI} 16)}
+    \field{isbn}{978-1-931971-33-1}
+    \field{pages}{265\bibrangedash 283}
+    \field{title}{TensorFlow: A System for Large-Scale Machine Learning}
+    \verb{url}
+    \verb https://www.usenix.org/conference/osdi16/technical-sessions/presentat
+    \verb ion/abadi
+    \endverb
+    \list{location}{1}{%
+      {Savannah, GA}%
+    }
+    \field{month}{11}
+    \field{year}{2016}
+  \endentry
+
+  \entry{Alom:2018}{report}{}
+    \name{author}{9}{}{%
+      {{hash=AMZ}{%
+         family={Alom},
+         familyi={A\bibinitperiod},
+         given={Md\bibnamedelima Zahangir},
+         giveni={M\bibinitperiod\bibinitdelim Z\bibinitperiod},
+      }}%
+      {{hash=TTM}{%
+         family={Taha},
+         familyi={T\bibinitperiod},
+         given={Tarek\bibnamedelima M.},
+         giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=YC}{%
+         family={Yakopcic},
+         familyi={Y\bibinitperiod},
+         given={Christopher},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=WS}{%
+         family={Westberg},
+         familyi={W\bibinitperiod},
+         given={Stefan},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SP}{%
+         family={Sidike},
+         familyi={S\bibinitperiod},
+         given={Paheding},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=NMS}{%
+         family={Nasrin},
+         familyi={N\bibinitperiod},
+         given={Mst\bibnamedelima Shamima},
+         giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=VEBC}{%
+         family={Van\bibnamedelima Esesn},
+         familyi={V\bibinitperiod\bibinitdelim E\bibinitperiod},
+         given={Brian\bibnamedelima C.},
+         giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=AAAS}{%
+         family={Awwal},
+         familyi={A\bibinitperiod},
+         given={Abdul A.\bibnamedelima S.},
+         giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  S\bibinitperiod},
+      }}%
+      {{hash=AVK}{%
+         family={Asari},
+         familyi={A\bibinitperiod},
+         given={Vijayan\bibnamedelima K.},
+         giveni={V\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AMZ+1}
+    \strng{fullhash}{AMZTTMYCWSSPNMSVEBCAAASAVK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Alo+18}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \verb{eprint}
+    \verb 1803.01164
+    \endverb
+  \field{note}{\textcolor{blue}{\href{../../MLbib/CNN/1803.01164.pdf}{[pdf]}}}
+    \field{title}{The History Began from AlexNet: A Comprehensive Survey on
+  Deep Learning Approaches}
+    \field{type}{techreport}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{cs.CV}
+    \field{year}{2018}
+  \endentry
+
+  \entry{Anderson:1935}{article}{}
+    \name{author}{1}{}{%
+      {{hash=AE}{%
+         family={Anderson},
+         familyi={A\bibinitperiod},
+         given={Edgar},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AE1}
+    \strng{fullhash}{AE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{And35}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{59}
+    \field{pages}{2\bibrangedash 5}
+    \field{title}{The irises of the Gaspé Peninsula}
+    \field{journaltitle}{Bulletin of the American Iris Society}
+    \field{year}{1935}
+  \endentry
+
+  \entry{Buxmann:2019}{book}{}
+    \name{author}{2}{}{%
+      {{hash=BP}{%
+         family={Buxmann},
+         familyi={B\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=SH}{%
+         family={Schmidt},
+         familyi={S\bibinitperiod},
+         given={Holger},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{BPSH1}
+    \strng{fullhash}{BPSH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{BS19}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{K{\"u}nstliche Intelligenz}
+    \field{year}{2019}
+  \endentry
+
+  \entry{Balakreshnan:2019}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=B}{%
+         family={Balakreshnan},
+         familyi={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{B1}
+    \strng{fullhash}{B1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Bal19}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{note}{Eingesehen am 20.04.2020 [online]}
+    \field{title}{Inferencing Model - Jetson Nano Without Docker container}
+    \verb{url}
+    \verb https://github.com/balakreshnan/WorkplaceSafety/blob/master/Inferenci
+    \verb nginJetsonNano.md#inferencing-model---jetson-nano-without-docker-cont
+    \verb ainer
+    \endverb
+    \field{year}{2019}
+  \endentry
+
+  \entry{Chollet:2018}{book}{}
+    \name{author}{1}{}{%
+      {{hash=CF}{%
+         family={Chollet},
+         familyi={C\bibinitperiod},
+         given={Francois},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {MITP-Verlags GmbH \& Co. KG}%
+    }
+    \strng{namehash}{CF1}
+    \strng{fullhash}{CF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Cho18}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{Deep Learning mit Python und Keras: Das Praxis-Handbuch vom
+  Entwickler der Keras-Bibliothek}
+    \field{year}{2018}
+  \endentry
+
+  \entry{Chowdhery:2019}{misc}{}
+    \name{author}{5}{}{%
+      {{hash=CA}{%
+         family={Chowdhery},
+         familyi={C\bibinitperiod},
+         given={Aakanksha},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=WP}{%
+         family={Warden},
+         familyi={W\bibinitperiod},
+         given={Pete},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Shlens},
+         familyi={S\bibinitperiod},
+         given={Jonathon},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=HA}{%
+         family={Howard},
+         familyi={H\bibinitperiod},
+         given={Andrew},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=RR}{%
+         family={Rhodes},
+         familyi={R\bibinitperiod},
+         given={Rocky},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CA+1}
+    \strng{fullhash}{CAWPSJHARR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Cho+19}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \verb{doi}
+    \verb 10.48550/ARXIV.1906.05721
+    \endverb
+    \verb{eprint}
+    \verb 1906.05721
+    \endverb
+  \field{note}{\textcolor{blue}{\href{../../MLbib/Dataset/1906.05721.pdf}{[pdf]},
+  \textcolor{blue}{\href{https://github.com/Mxbonn/visualwakewords}{[github]}}
+  }}
+    \field{title}{Visual Wake Words Dataset}
+    \verb{url}
+    \verb https://github.com/Mxbonn/visualwakewords
+    \endverb
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{cs.CV}
+    \field{year}{2019}
+  \endentry
+
+  \entry{CUDA:2020}{online}{}
+    \name{editor}{1}{}{%
+      {{hash=CN}{%
+         family={Corporation},
+         familyi={C\bibinitperiod},
+         given={NVIDIA},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CN1}
+    \strng{fullhash}{CN1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Cor20}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{CUDA}
+    \verb{url}
+    \verb https://developer.nvidia.com/cuda-zone
+    \endverb
+    \field{year}{2020}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{Deng:2009}{inproceedings}{}
+    \name{author}{6}{}{%
+      {{hash=DJ}{%
+         family={Deng},
+         familyi={D\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=DW}{%
+         family={Dong},
+         familyi={D\bibinitperiod},
+         given={W.},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Socher},
+         familyi={S\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=LL}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=LK}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Kai},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=FFL}{%
+         family={Fei-Fei},
+         familyi={F\bibinithyphendelim F\bibinitperiod},
+         given={Li},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DJ+1}
+    \strng{fullhash}{DJDWSRLLLKFFL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Den+09}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{booktitle}{2009 IEEE Conference on Computer Vision and Pattern
+  Recognition}
+    \verb{doi}
+    \verb 10.1109/CVPR.2009.5206848
+    \endverb
+    \field{pages}{248\bibrangedash 255}
+    \field{title}{ImageNet: A large-scale hierarchical image database}
+    \field{year}{2009}
+  \endentry
+
+  \entry{Deng:2012}{article}{}
+    \name{author}{1}{}{%
+      {{hash=D}{%
+         family={{Deng, L.}},
+         familyi={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{D1}
+    \strng{fullhash}{D1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{{Den}12}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{note}{\href{../../MLbib/Dataset/MNIST-SPM2012.pdf}{[pdf]},
+  \href{https://chromium.googlesource.com/external/github.com/tensorflow/tensorflow/+/r0.7/tensorflow/g3doc/tutorials/mnist/download/index.md}{Link}}
+    \field{number}{6}
+    \field{pages}{141\bibrangedash 142}
+    \field{title}{The MNIST Database of Handwritten Digit Images for Machine
+  Learning Research [Best of the Web]}
+    \field{volume}{29}
+    \field{journaltitle}{IEEE Signal Processing Magazine}
+    \field{year}{2012}
+  \endentry
+
+  \entry{Deeplearning4J:2020}{online}{}
+    \name{editor}{1}{}{%
+      {{hash=E}{%
+         family={Eclipse},
+         familyi={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{E1}
+    \strng{fullhash}{E1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Ecl20}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{title}{Deep Learning for Java}
+    \verb{url}
+    \verb https://deeplearning4j.org/
+    \endverb
+    \field{year}{2020}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{PyTorch:2020}{online}{}
+    \name{editor}{1}{}{%
+      {{hash=F}{%
+         family={Facebook},
+         familyi={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{F1}
+    \strng{fullhash}{F1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Fac20}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{title}{PyTorch}
+    \verb{url}
+    \verb https://pytorch.org/
+    \endverb
+    \field{year}{2020}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{Fisher:1936}{article}{}
+    \name{author}{1}{}{%
+      {{hash=FRA}{%
+         family={Fisher},
+         familyi={F\bibinitperiod},
+         given={R.\bibnamedelima A.},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FRA1}
+    \strng{fullhash}{FRA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Fis}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{title}{The use of Multiple Measurements inTaxonomic Problems}
+  \endentry
+
+  \entry{Iris:2021}{online}{}
+    \name{author}{1}{}{%
+      {{hash=FRA}{%
+         family={Fisher},
+         familyi={F\bibinitperiod},
+         given={R.\bibnamedelima A.},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{2}{%
+      {Center for Machine Learning}%
+      {Intelligent Systems}%
+    }
+    \strng{namehash}{FRA1}
+    \strng{fullhash}{FRA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Fis36}
+    \field{extraalpha}{1}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{note}{\href{../../ExterneDokumente/Dataset/.pdf}{[pdf]}}
+    \field{title}{Fisher's Iris Dataset}
+    \verb{url}
+    \verb https://archive.ics.uci.edu/ml/datasets/iris
+    \endverb
+    \field{year}{1936}
+    \warn{\item Invalid format of field 'date' \item Invalid format of field
+  'date'}
+  \endentry
+
+  \entry{UCIIris:2021}{online}{}
+    \name{author}{1}{}{%
+      {{hash=FRA}{%
+         family={Fisher},
+         familyi={F\bibinitperiod},
+         given={R.\bibnamedelima A.},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{2}{%
+      {Center for Machine Learning}%
+      {Intelligent Systems}%
+    }
+    \strng{namehash}{FRA1}
+    \strng{fullhash}{FRA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Fis36}
+    \field{extraalpha}{2}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{note}{\href{../../ExterneDokumente/Dataset/.pdf}{[pdf]}}
+    \field{title}{Fisher's Iris Dataset}
+    \verb{url}
+    \verb https://archive.ics.uci.edu/ml/datasets/iris
+    \endverb
+    \field{year}{1936}
+    \warn{\item Invalid format of field 'date' \item Invalid format of field
+  'date'}
+  \endentry
+
+  \entry{Python:2020}{online}{}
+    \name{editor}{1}{}{%
+      {{hash=FPS}{%
+         family={Foundation},
+         familyi={F\bibinitperiod},
+         given={Python\bibnamedelima Software},
+         giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FPS1}
+    \strng{fullhash}{FPS1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Fou20}
+    \field{extraalpha}{1}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{note}{Eingesehen am 15.12.2019 [online]}
+    \field{title}{glob — Unix style pathname pattern expansion}
+    \verb{url}
+    \verb https://docs.python.org/3/library/glob.html
+    \endverb
+    \field{year}{2020}
+  \endentry
+
+  \entry{Python:2020c}{online}{}
+    \name{editor}{1}{}{%
+      {{hash=FPS}{%
+         family={Foundation},
+         familyi={F\bibinitperiod},
+         given={Python\bibnamedelima Software},
+         giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FPS1}
+    \strng{fullhash}{FPS1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Fou20}
+    \field{extraalpha}{2}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{note}{Eingesehen am 15.12.2019 [online]}
+    \field{title}{numpy}
+    \verb{url}
+    \verb https://numpy.org/
+    \endverb
+    \field{year}{2020}
+  \endentry
+
+  \entry{Python:2020e}{online}{}
+    \name{editor}{1}{}{%
+      {{hash=FPS}{%
+         family={Foundation},
+         familyi={F\bibinitperiod},
+         given={Python\bibnamedelima Software},
+         giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FPS1}
+    \strng{fullhash}{FPS1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Fou20}
+    \field{extraalpha}{3}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{note}{Eingesehen am 17.12.2019 [online]}
+    \field{title}{python-pickle-module-save-objects-serialization}
+    \verb{url}
+    \verb https://pythonprogramming.net/python-pickle-module-save-objects-seria
+    \verb lization/
+    \endverb
+    \field{year}{2020}
+  \endentry
+
+  \entry{Python:2020d}{online}{}
+    \name{editor}{1}{}{%
+      {{hash=FPS}{%
+         family={Foundation},
+         familyi={F\bibinitperiod},
+         given={Python\bibnamedelima Software},
+         giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FPS1}
+    \strng{fullhash}{FPS1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Fou20}
+    \field{extraalpha}{4}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{note}{Eingesehen am 16.12.2019 [online]}
+    \field{title}{random}
+    \verb{url}
+    \verb https://docs.python.org/3/library/random.html
+    \endverb
+    \field{year}{2020}
+  \endentry
+
+  \entry{PyPI:2021}{online}{}
+    \name{editor}{1}{}{%
+      {{hash=FPS}{%
+         family={Foundation},
+         familyi={F\bibinitperiod},
+         given={Python\bibnamedelima Software},
+         giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FPS1}
+    \strng{fullhash}{FPS1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Fou21}
+    \field{extraalpha}{1}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{title}{The Python Package Index}
+    \verb{url}
+    \verb https://pypi.org
+    \endverb
+    \field{year}{2021}
+  \endentry
+
+  \entry{PyPI:2021b}{online}{}
+    \name{editor}{1}{}{%
+      {{hash=FPS}{%
+         family={Foundation},
+         familyi={F\bibinitperiod},
+         given={Python\bibnamedelima Software},
+         giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FPS1}
+    \strng{fullhash}{FPS1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Fou21}
+    \field{extraalpha}{2}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{title}{pycocotools}
+    \verb{url}
+    \verb https://pypi.org/project/pycocotools
+    \endverb
+    \field{year}{2021}
+  \endentry
+
+  \entry{Gysel:2016}{article}{}
+    \name{author}{3}{}{%
+      {{hash=GP}{%
+         family={Gysel},
+         familyi={G\bibinitperiod},
+         given={Philipp},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=MM}{%
+         family={Motamedi},
+         familyi={M\bibinitperiod},
+         given={Mohammad},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=GS}{%
+         family={Ghiasi},
+         familyi={G\bibinitperiod},
+         given={Soheil},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GPMMGS1}
+    \strng{fullhash}{GPMMGS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{GMG16}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{title}{Hardware-oriented approximation of convolutional neural
+  networks}
+    \field{journaltitle}{arXiv preprint arXiv:1604.03168}
+    \field{year}{2016}
+  \endentry
+
+  \entry{GoogleTensorFlow:2019}{online}{}
+    \name{editor}{1}{}{%
+      {{hash=G}{%
+         family={Google},
+         familyi={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{G1}
+    \strng{fullhash}{G1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Goo19}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{title}{TensorFlow}
+    \verb{url}
+    \verb https://www.tensorflow.org/
+    \endverb
+    \field{year}{2019}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{GoogleTensorFlowLiteGuide:2020}{online}{}
+    \name{editor}{1}{}{%
+      {{hash=G}{%
+         family={Google},
+         familyi={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{G1}
+    \strng{fullhash}{G1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Goo20}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{title}{TensorFlow Lite Guide}
+    \verb{url}
+    \verb \url{https://www.tensorflow.org/lite/guide}
+    \endverb
+    \field{year}{2020}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{Ho:2009}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=HWT}{%
+         family={Ho},
+         familyi={H\bibinitperiod},
+         given={Wing\bibnamedelima Teng},
+         giveni={W\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=LHW}{%
+         family={Lim},
+         familyi={L\bibinitperiod},
+         given={Hao\bibnamedelima Wooi},
+         giveni={H\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=TYH}{%
+         family={Tay},
+         familyi={T\bibinitperiod},
+         given={Yong\bibnamedelima Haur},
+         giveni={Y\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{HWTLHWTYH1}
+    \strng{fullhash}{HWTLHWTYH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{HLT09}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{booktitle}{2009 First Asian Conference on Intelligent Information
+  and Database Systems}
+    \verb{doi}
+    \verb 10.1109/ACIIDS.2009.25
+    \endverb
+    \field{isbn}{978-0-7695-3580-7}
+    \field{pages}{109\bibrangedash 114}
+    \field{title}{Two-Stage License Plate Detection Using Gentle Adaboost and
+  SIFT-SVM}
+    \field{year}{2009}
+  \endentry
+
+  \entry{Hansen:2017}{article}{}
+    \name{author}{4}{}{%
+      {{hash=HD}{%
+         family={Hansen},
+         familyi={H\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=NK}{%
+         family={Nasrollahi},
+         familyi={N\bibinitperiod},
+         given={Kamal},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=RC}{%
+         family={Rasmusen},
+         familyi={R\bibinitperiod},
+         given={Christoffer},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=MT}{%
+         family={Moeslund},
+         familyi={M\bibinitperiod},
+         given={Thomas},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HD+1}
+    \strng{fullhash}{HDNKRCMT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Han+17}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \verb{doi}
+    \verb 10.5220/0006508203210327
+    \endverb
+    \field{pages}{321\bibrangedash 327}
+    \field{title}{Real-Time Barcode Detection and Classification using Deep
+  Learning}
+    \field{month}{01}
+    \field{year}{2017}
+  \endentry
+
+  \entry{Ide:2017}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=IH}{%
+         family={Ide},
+         familyi={I\bibinitperiod},
+         given={Hidenori},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=KT}{%
+         family={Kurita},
+         familyi={K\bibinitperiod},
+         given={Takio},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{IEEE}}%
+    }
+    \strng{namehash}{IHKT1}
+    \strng{fullhash}{IHKT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{IK17}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+    \field{booktitle}{2017 International Joint Conference on Neural Networks
+  ({IJCNN})}
+    \verb{doi}
+    \verb 10.1109/ijcnn.2017.7966185
+    \endverb
+    \field{title}{Improvement of learning for {CNN} with {ReLU} activation by
+  sparse regularization}
+    \field{year}{2017}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{IntelRequirements:2019}{online}{}
+    \name{editor}{1}{}{%
+      {{hash=I}{%
+         family={{Intel Corporation}},
+         familyi={I\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{I1}
+    \strng{fullhash}{I1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{{Int}19}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+    \field{title}{OpenVino - System Requirements}
+    \verb{url}
+    \verb https://software.intel.com/content/www/us/en/develop/tools/openvino-t
+    \verb oolkit/system-requirements.html
+    \endverb
+    \field{year}{2019}
+    \warn{\item Invalid format of field 'date' \item Invalid format of field
+  'date'}
+  \endentry
+
+  \entry{Caffe:2020}{online}{}
+    \name{author}{2}{}{%
+      {{hash=JY}{%
+         family={Jia},
+         familyi={J\bibinitperiod},
+         given={Yangqing},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=ESE}{%
+         family={Evan\bibnamedelima Shelhamer},
+         familyi={E\bibinitperiod\bibinitdelim S\bibinitperiod},
+         given={Evan},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=RBAI}{%
+         family={Research},
+         familyi={R\bibinitperiod},
+         given={Berkeley Artificial\bibnamedelima Intelligence},
+         giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  I\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JYESE1}
+    \strng{fullhash}{JYESE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{JES20}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{title}{Caffe}
+    \verb{url}
+    \verb http://caffe.berkeleyvision.org/
+    \endverb
+    \field{year}{2020}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{Krizhevsky:2009}{online}{}
+    \name{author}{2}{}{%
+      {{hash=KA}{%
+         family={Krizhevsky},
+         familyi={K\bibinitperiod},
+         given={Alex},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=HG}{%
+         family={Hinton},
+         familyi={H\bibinitperiod},
+         given={Geoffrey},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KAHG1}
+    \strng{fullhash}{KAHG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{KH09}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{title}{Learning Multiple Layers of Features from Tiny Images}
+    \verb{url}
+    \verb https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf
+    \endverb
+    \list{location}{1}{%
+      {Toronto, Ontario}%
+    }
+    \list{institution}{1}{%
+      {University of Toronto}%
+    }
+    \field{year}{2009}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{Krizhevsky:2012b}{article}{}
+    \name{author}{3}{}{%
+      {{hash=KA}{%
+         family={Krizhevsky},
+         familyi={K\bibinitperiod},
+         given={Alex},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SI}{%
+         family={Sutskever},
+         familyi={S\bibinitperiod},
+         given={Ilya},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=HG}{%
+         family={Hinton},
+         familyi={H\bibinitperiod},
+         given={Geoffrey},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KASIHG1}
+    \strng{fullhash}{KASIHG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{KSH12}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \verb{doi}
+    \verb 10.1145/3065386
+    \endverb
+    \field{title}{ImageNet Classification with Deep Convolutional Neural
+  Networks}
+    \verb{url}
+    \verb http://www.cs.toronto.edu/~kriz/imagenet_classification_with_deep_con
+    \verb volutional.pdf
+    \endverb
+    \field{volume}{25}
+    \field{journaltitle}{Neural Information Processing Systems}
+    \field{month}{01}
+    \field{year}{2012}
+  \endentry
+
+  \entry{Krizhevsky:2017}{online}{}
+    \name{author}{3}{}{%
+      {{hash=KA}{%
+         family={Krizhevsky},
+         familyi={K\bibinitperiod},
+         given={Alex},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SI}{%
+         family={Sutskever},
+         familyi={S\bibinitperiod},
+         given={Ilya},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=HGE}{%
+         family={Hinton},
+         familyi={H\bibinitperiod},
+         given={Geoffrey\bibnamedelima E.},
+         giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Canadian Institute for Advanced Research}%
+    }
+    \strng{namehash}{KASIHGE1}
+    \strng{fullhash}{KASIHGE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{KSH17}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{title}{CIFAR-10 and CIFAR-100 datasets}
+    \verb{url}
+    \verb https://www.cs.toronto.edu/~kriz/cifar.html
+    \endverb
+    \field{year}{2017}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{KaggleIris:2018}{misc}{}
+    \list{publisher}{1}{%
+      {Kaggle}%
+    }
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Kag}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{title}{Iris Flower Dataset}
+    \verb{url}
+    \verb https://www.kaggle.com/arshid/iris-flower-dataset
+    \endverb
+    \field{year}{2018}
+  \endentry
+
+  \entry{LeCun:2013}{online}{}
+    \name{author}{3}{}{%
+      {{hash=LY}{%
+         family={LeCun},
+         familyi={L\bibinitperiod},
+         given={Yann},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=CC}{%
+         family={Cortes},
+         familyi={C\bibinitperiod},
+         given={Corinna},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=BC}{%
+         family={Burges},
+         familyi={B\bibinitperiod},
+         given={Chris},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LYCCBC1}
+    \strng{fullhash}{LYCCBC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{LCB13}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{title}{MNIST handwritten digit database}
+    \verb{url}
+    \verb http://yann.lecun.com/exdb/mnist/
+    \endverb
+    \field{year}{2013}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{Lin:2014}{article}{}
+    \name{author}{10}{}{%
+      {{hash=LT}{%
+         family={Lin},
+         familyi={L\bibinitperiod},
+         given={Tsung{-}Yi},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=MM}{%
+         family={Maire},
+         familyi={M\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BSJ}{%
+         family={Belongie},
+         familyi={B\bibinitperiod},
+         given={Serge\bibnamedelima J.},
+         giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=BLD}{%
+         family={Bourdev},
+         familyi={B\bibinitperiod},
+         given={Lubomir\bibnamedelima D.},
+         giveni={L\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=GRB}{%
+         family={Girshick},
+         familyi={G\bibinitperiod},
+         given={Ross\bibnamedelima B.},
+         giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=HJ}{%
+         family={Hays},
+         familyi={H\bibinitperiod},
+         given={James},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=PP}{%
+         family={Perona},
+         familyi={P\bibinitperiod},
+         given={Pietro},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=RD}{%
+         family={Ramanan},
+         familyi={R\bibinitperiod},
+         given={Deva},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=DP}{%
+         family={Doll{\'{a}}r},
+         familyi={D\bibinitperiod},
+         given={Piotr},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=ZCL}{%
+         family={Zitnick},
+         familyi={Z\bibinitperiod},
+         given={C.\bibnamedelima Lawrence},
+         giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LT+1}
+    \strng{fullhash}{LTMMBSJBLDGRBHJPPRDDPZCL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Lin+14}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \verb{eprint}
+    \verb 1405.0312
+    \endverb
+    \field{title}{Microsoft {COCO:} Common Objects in Context}
+    \verb{url}
+    \verb http://arxiv.org/abs/1405.0312
+    \endverb
+    \field{volume}{abs/1405.0312}
+    \field{journaltitle}{The Computing Research Repository (CoRR)}
+    \field{eprinttype}{arXiv}
+    \field{year}{2014}
+  \endentry
+
+  \entry{Coco:2021}{online}{}
+    \name{author}{13}{}{%
+      {{hash=LTY}{%
+         family={Lin},
+         familyi={L\bibinitperiod},
+         given={Tsung-Yi},
+         giveni={T\bibinithyphendelim Y\bibinitperiod},
+      }}%
+      {{hash=PG}{%
+         family={Patterson},
+         familyi={P\bibinitperiod},
+         given={Genevieve},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=RMR}{%
+         family={Ronchi},
+         familyi={R\bibinitperiod},
+         given={Matteo\bibnamedelima R.},
+         giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=CY}{%
+         family={Cui},
+         familyi={C\bibinitperiod},
+         given={Yin},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=MM}{%
+         family={Maire},
+         familyi={M\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BS}{%
+         family={Belongie},
+         familyi={B\bibinitperiod},
+         given={Serge},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=BL}{%
+         family={Bourdev},
+         familyi={B\bibinitperiod},
+         given={Lubomir},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=GR}{%
+         family={Girshick},
+         familyi={G\bibinitperiod},
+         given={Ross},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=HJ}{%
+         family={Hays},
+         familyi={H\bibinitperiod},
+         given={James},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=PP}{%
+         family={Perona},
+         familyi={P\bibinitperiod},
+         given={Pietro},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=RD}{%
+         family={Ramanan},
+         familyi={R\bibinitperiod},
+         given={Deva},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=ZL}{%
+         family={Zitnick},
+         familyi={Z\bibinitperiod},
+         given={Larry},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=DP}{%
+         family={Dollár},
+         familyi={D\bibinitperiod},
+         given={Piotr},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LTY+1}
+    \strng{fullhash}{LTYPGRMRCYMMBSBLGRHJPPRDZLDP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Lin+21}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{title}{COCO - Common Objects in Context}
+    \verb{url}
+    \verb https://cocodataset.org/
+    \endverb
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'date' \item Invalid format of field
+  'date'}
+  \endentry
+
+  \entry{MXNet:2020}{online}{}
+    \name{editor}{1}{}{%
+      {{hash=MASFA}{%
+         family={MXNet},
+         familyi={M\bibinitperiod},
+         given={Apache Software Foundation\bibnamedelima Apache},
+         giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim
+  F\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MASFA1}
+    \strng{fullhash}{MASFA1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{MXN20}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{MXNet}
+    \verb{url}
+    \verb https://mxnet.apache.org/
+    \endverb
+    \field{year}{2020}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{CNTK:2020}{online}{}
+    \name{editor}{1}{}{%
+      {{hash=M}{%
+         family={Microsoft},
+         familyi={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{M1}
+    \strng{fullhash}{M1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Mic20}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{The Microsoft Cognitive Toolkit}
+    \verb{url}
+    \verb https://docs.microsoft.com/en-us/cognitive-toolkit/
+    \endverb
+    \field{year}{2020}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{TensorRT:2015}{online}{}
+    \name{editor}{1}{}{%
+      {{hash=N}{%
+         family={{NVIDIA Corporation}},
+         familyi={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{N1}
+    \strng{fullhash}{N1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{{NVI}15}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{title}{NVIDIA TensorRT}
+    \verb{url}
+    \verb \url{https://developer.nvidia.com/tensorrt}
+    \endverb
+    \field{year}{2015}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{CUDATK:2020}{manual}{}
+    \name{editor}{1}{}{%
+      {{hash=N}{%
+         family={{NVIDIA Corporation}},
+         familyi={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{N1}
+    \strng{fullhash}{N1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{{NVI}20}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+  \field{note}{\href{../../ExterneDokumente/CUDA/CUDA_Toolkit_Release_Notes.pdf}{[pdf]}}
+    \field{title}{NVIDIA CUDA Tolkit 11.0.161}
+    \field{year}{2020}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{Nielsen:2015}{book}{}
+    \name{author}{1}{}{%
+      {{hash=NMA}{%
+         family={Nielsen},
+         familyi={N\bibinitperiod},
+         given={Michael\bibnamedelima A.},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{Determination Press}}%
+    }
+    \strng{namehash}{NMA1}
+    \strng{fullhash}{NMA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Nie15}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{title}{Neural Networks and Deep Learning}
+    \verb{url}
+    \verb http://neuralnetworksanddeeplearning.com/chap1.html
+    \endverb
+    \field{year}{2015}
+  \endentry
+
+  \entry{OpeneVision:2018}{misc}{}
+    \name{editor}{1}{}{%
+      {{hash=O}{%
+         family={{Open eVision}},
+         familyi={O\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{Open eVision}}%
+    }
+    \strng{namehash}{O1}
+    \strng{fullhash}{O1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{{Ope}18}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \field{title}{EasyOCR -- Reading Texts}
+    \verb{url}
+    \verb https://documentation.euresys.com/Products/Open_eVision/Open_eVision_
+    \verb 2_5/en-us/Content/03_Using_Open_eVision/D1_EasyOCR_-_Reading_Texts/Ea
+    \verb syOCR_-_Reading_Texts.htm
+    \endverb
+    \list{institution}{1}{%
+      {{Open eVision}}%
+    }
+    \field{year}{2018}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{Chainer:2020}{online}{}
+    \name{editor}{1}{}{%
+      {{hash=PNI}{%
+         family={Preferred\bibnamedelima Networks},
+         familyi={P\bibinitperiod\bibinitdelim N\bibinitperiod},
+         given={Inc.},
+         giveni={I\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PNI1}
+    \strng{fullhash}{PNI1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{PN20}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{title}{Chainer}
+    \verb{url}
+    \verb https://chainer.org/
+    \endverb
+    \field{year}{2020}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{scikit-learn:2011}{article}{}
+    \name{author}{16}{}{%
+      {{hash=PF}{%
+         family={Pedregosa},
+         familyi={P\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=VG}{%
+         family={Varoquaux},
+         familyi={V\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=GA}{%
+         family={Gramfort},
+         familyi={G\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MV}{%
+         family={Michel},
+         familyi={M\bibinitperiod},
+         given={V.},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=TB}{%
+         family={Thirion},
+         familyi={T\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=GO}{%
+         family={Grisel},
+         familyi={G\bibinitperiod},
+         given={O.},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Blondel},
+         familyi={B\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=PP}{%
+         family={Prettenhofer},
+         familyi={P\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=WR}{%
+         family={Weiss},
+         familyi={W\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=DV}{%
+         family={Dubourg},
+         familyi={D\bibinitperiod},
+         given={V.},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=VJ}{%
+         family={Vanderplas},
+         familyi={V\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=PA}{%
+         family={Passos},
+         familyi={P\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=CD}{%
+         family={Cournapeau},
+         familyi={C\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Brucher},
+         familyi={B\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=PM}{%
+         family={Perrot},
+         familyi={P\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=DE}{%
+         family={Duchesnay},
+         familyi={D\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PF+1}
+    \strng{fullhash}{PFVGGAMVTBGOBMPPWRDVVJPACDBMPMDE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Ped+11}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{pages}{2825\bibrangedash 2830}
+    \field{title}{Scikit-learn: Machine Learning in {P}ython}
+    \field{volume}{12}
+    \field{journaltitle}{Journal of Machine Learning Research}
+    \field{year}{2011}
+  \endentry
+
+  \entry{Redmon:2016}{misc}{}
+    \name{author}{2}{}{%
+      {{hash=RJ}{%
+         family={Redmon},
+         familyi={R\bibinitperiod},
+         given={Joseph},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=FA}{%
+         family={Farhadi},
+         familyi={F\bibinitperiod},
+         given={Ali},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {arXiv}%
+    }
+    \keyw{Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and
+  information sciences}
+    \strng{namehash}{RJFA1}
+    \strng{fullhash}{RJFA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{RF16}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \verb{doi}
+    \verb 10.48550/ARXIV.1612.08242
+    \endverb
+    \field{title}{YOLO9000: Better, Faster, Stronger}
+    \field{year}{2016}
+  \endentry
+
+  \entry{kaggle.21.09.2020}{article}{}
+    \name{author}{1}{}{%
+      {{hash=RA}{%
+         family={Raj},
+         familyi={R\bibinitperiod},
+         given={Ananta},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=K}{%
+         family={Kaggle},
+         familyi={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RA1}
+    \strng{fullhash}{RA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Raj20}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{abstract}{%
+    Explore and run machine learning code with Kaggle Notebooks | Using data
+  from CIFAR-10 Python%
+    }
+    \field{title}{AlexNet CNN Architecture on Tensorflow (beginner)}
+    \verb{url}
+    \verb https://www.kaggle.com/vortexkol/alexnet-cnn-architecture-on-tensorfl
+    \verb ow-beginner
+    \endverb
+    \field{year}{2020}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{Redmon.04.12.2020}{online}{}
+    \name{author}{1}{}{%
+      {{hash=RJ}{%
+         family={Redmon},
+         familyi={R\bibinitperiod},
+         given={Joseph},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RJ1}
+    \strng{fullhash}{RJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Red20}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{abstract}{%
+    MNIST is a great dataset in awful packaging. Here's a CSV instead of that
+  crazy format they are normally available in. Enjoy!%
+    }
+    \field{title}{MNIST in CSV}
+    \verb{url}
+    \verb https://pjreddie.com/projects/mnist-in-csv/
+    \endverb
+    \field{year}{2020}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{Keras:2020}{online}{}
+    \name{editor}{1}{}{%
+      {{hash=SK}{%
+         family={SIG},
+         familyi={S\bibinitperiod},
+         given={Keras},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SK1}
+    \strng{fullhash}{SK1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{SIG20}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Keras}
+    \verb{url}
+    \verb https://keras.io/
+    \endverb
+    \field{year}{2020}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{Sahni:2006}{article}{}
+    \name{author}{2}{}{%
+      {{hash=SV}{%
+         family={Sahni},
+         familyi={S\bibinitperiod},
+         given={Vishal},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=PC}{%
+         family={Patvardhan},
+         familyi={P\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SVPC1}
+    \strng{fullhash}{SVPC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{SP06}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \verb{doi}
+    \verb 10.1063/1.2400893
+    \endverb
+    \verb{eprint}
+    \verb https://aip.scitation.org/doi/pdf/10.1063/1.2400893
+    \endverb
+    \field{number}{1}
+    \field{pages}{219\bibrangedash 227}
+    \field{title}{Iris Data Classification Using Quantum Neural Networks}
+    \verb{url}
+    \verb https://aip.scitation.org/doi/abs/10.1063/1.2400893
+    \endverb
+    \field{volume}{864}
+    \field{journaltitle}{AIP Conference Proceedings}
+    \field{year}{2006}
+  \endentry
+
+  \entry{Siddique:2019}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=SF}{%
+         family={Siddique},
+         familyi={S\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Sakib},
+         familyi={S\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SMAB}{%
+         family={Siddique},
+         familyi={S\bibinitperiod},
+         given={M.\bibnamedelima A.\bibnamedelima B.},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SFSSSMAB1}
+    \strng{fullhash}{SFSSSMAB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{SSS19}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{booktitle}{2019 5th International Conference on Advances in
+  Electrical Engineering (ICAEE)}
+    \field{note}{\href{../../MLbib/Dataset/1909.08490.pdf}{[pdf]}}
+    \field{pages}{541\bibrangedash 546}
+    \field{title}{Recognition of Handwritten Digit using Convolutional Neural
+  Network in Python with Tensorflow and Comparison of Performance for Various
+  Hidden Layers}
+    \field{year}{2019}
+  \endentry
+
+  \entry{Schutten:2016}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=SM}{%
+         family={Schutten},
+         familyi={S\bibinitperiod},
+         given={Marten},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=WM}{%
+         family={Wiering},
+         familyi={W\bibinitperiod},
+         given={Marco},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \keyw{Supervised learning, Machine learning, Support Vector Machine}
+    \strng{namehash}{SMWM1}
+    \strng{fullhash}{SMWM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{SW16}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    The Iris dataset is a well known dataset containing information on three
+  different types of Iris flowers. A typical and popular method for solving
+  classification problems on datasets such as the Iris set is the support
+  vector machine (SVM). In order to do so the dataset is separated in a set
+  used for training and a set used for testing. The error rate, after training,
+  for the training set should be lower than the error rate on the test set.
+  However, in this paper we show that when solving the classification problem
+  for the Iris dataset with SVMs this is not the case. Therefore, we provide an
+  analysis of the Iris dataset and the classification models in order to find
+  the origin of this interesting observation.%
+    }
+    \field{booktitle}{Belgian Dutch Artificial Intelligence Conference}
+    \field{note}{\href{https://archive.ics.uci.edu/ml/datasets/iris}{Link},
+  \href{https://www.kaggle.com/uciml/iris}{Link}}
+    \field{title}{An Analysis on Better Testing than Training Performances on
+  the Iris Dataset}
+    \field{month}{09}
+    \field{year}{2016}
+  \endentry
+
+  \entry{Woodland:1952}{misc}{}
+    \name{author}{2}{}{%
+      {{hash=SB}{%
+         family={Silver},
+         familyi={S\bibinitperiod},
+         given={Bernard},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=WNJ}{%
+         family={Woodland},
+         familyi={W\bibinitperiod},
+         given={Norman\bibnamedelima Joseph},
+         giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SBWNJ1}
+    \strng{fullhash}{SBWNJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{SW52}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{note}{US 2612994}
+    \field{title}{Classifying Apparatus and Method}
+    \verb{url}
+    \verb https://worldwide.espacenet.com/patent/search/family/022402610/public
+    \verb ation/US2612994A?q=pn%3DUS2612994
+    \endverb
+    \field{year}{1952}
+  \endentry
+
+  \entry{Shankar:2020}{inproceedings}{}
+    \name{author}{6}{}{%
+      {{hash=SV}{%
+         family={Shankar},
+         familyi={S\bibinitperiod},
+         given={Vaishaal},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=RR}{%
+         family={Roelofs},
+         familyi={R\bibinitperiod},
+         given={Rebecca},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=MH}{%
+         family={Mania},
+         familyi={M\bibinitperiod},
+         given={Horia},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=FA}{%
+         family={Fang},
+         familyi={F\bibinitperiod},
+         given={Alex},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=RB}{%
+         family={Recht},
+         familyi={R\bibinitperiod},
+         given={Benjamin},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=SL}{%
+         family={Schmidt},
+         familyi={S\bibinitperiod},
+         given={Ludwig},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=IHD}{%
+         family={III},
+         familyi={I\bibinitperiod},
+         given={Hal\bibnamedelima Daumé},
+         giveni={H\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Singh},
+         familyi={S\bibinitperiod},
+         given={Aarti},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {PMLR - Proceedings of Machine Learning Research}%
+    }
+    \strng{namehash}{SV+1}
+    \strng{fullhash}{SVRRMHFARBSL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Sha+20}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    We evaluate a wide range of ImageNet models with five trained human
+  labelers. In our year-long experiment, trained humans first annotated 40,000
+  images from the ImageNet and ImageNetV2 test sets with multi-class labels to
+  enable a semantically coherent evaluation. Then we measured the
+  classification accuracy of the five trained humans on the full task with
+  1,000 classes. Only the latest models from 2020 are on par with our best
+  human labeler, and human accuracy on the 590 object classes is still 4% and
+  10% higher than the best model on ImageNet and ImageNetV2, respectively.
+  Moreover, humans achieve the same accuracy on ImageNet and ImageNetV2, while
+  all models see a consistent accuracy drop. Overall, our results show that
+  there is still substantial room for improvement on ImageNet and direct
+  accuracy comparisons between humans and machines may overstate machine
+  performance.%
+    }
+    \field{booktitle}{Proceedings of the 37th International Conference on
+  Machine Learning}
+    \field{note}{\href{../../MLbib/Dataset/shankar20c.pdf}{[pdf]}}
+    \field{pages}{8634\bibrangedash 8644}
+    \field{series}{Proceedings of Machine Learning Research}
+    \field{title}{Evaluating Machine Accuracy on {I}mage{N}et}
+    \verb{url}
+    \verb http://proceedings.mlr.press/v119/shankar20c.html
+    \endverb
+    \field{volume}{119}
+    \verb{file}
+    \verb http://proceedings.mlr.press/v119/shankar20c/shankar20c.pdf
+    \endverb
+    \field{year}{2020}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Caffe2:2020}{online}{}
+    \name{editor}{1}{}{%
+      {{hash=SFO}{%
+         family={Source},
+         familyi={S\bibinitperiod},
+         given={Facebook\bibnamedelima Open},
+         giveni={F\bibinitperiod\bibinitdelim O\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SFO1}
+    \strng{fullhash}{SFO1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Sou20}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Caffe2}
+    \verb{url}
+    \verb https://caffe2.ai/
+    \endverb
+    \field{year}{2020}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{Tan:2019}{inbook}{}
+    \name{author}{2}{}{%
+      {{hash=TS}{%
+         family={Tan},
+         familyi={T\bibinitperiod},
+         given={Sing},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Sidhu},
+         familyi={S\bibinitperiod},
+         given={Amandeep},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TSSA1}
+    \strng{fullhash}{TSSA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{TS19}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \verb{doi}
+    \verb 10.1007/978-3-030-15585-8_5
+    \endverb
+    \field{isbn}{978-3-030-17273-2}
+    \field{pages}{63\bibrangedash 67}
+    \field{title}{CUDA implementation}
+    \field{journaltitle}{Studies in Computational Intelligence}
+    \field{month}{04}
+    \field{year}{2019}
+  \endentry
+
+  \entry{OpenCV:2020b}{online}{}
+    \name{editor}{1}{}{%
+      {{hash=TO}{%
+         family={Team},
+         familyi={T\bibinitperiod},
+         given={OpenCV},
+         giveni={O\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TO1}
+    \strng{fullhash}{TO1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Tea20}
+    \field{extraalpha}{1}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{title}{OpenCV}
+    \verb{url}
+    \verb https://opencv.org/
+    \endverb
+    \field{year}{2020}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{OpenVino:2020}{online}{}
+    \name{editor}{1}{}{%
+      {{hash=TO}{%
+         family={Team},
+         familyi={T\bibinitperiod},
+         given={OpenOpenVino:2020ino},
+         giveni={O\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TO2}
+    \strng{fullhash}{TO2}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Tea20}
+    \field{extraalpha}{2}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{title}{OpenVino}
+    \verb{url}
+    \verb https://www.openvino.org/
+    \endverb
+    \field{year}{2020}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{OpenCV:2020}{misc}{}
+    \name{editor}{1}{}{%
+      {{hash=W}{%
+         family={Wikipedia},
+         familyi={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{W1}
+    \strng{fullhash}{W1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Wik20}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{note}{Eingesehen am 16.12.2019 [online]}
+    \field{title}{OpenCV}
+    \verb{url}
+    \verb https://de.wikipedia.org/wiki/OpenCV
+    \endverb
+    \field{year}{2020}
+  \endentry
+
+  \entry{Yun:2017}{article}{}
+    \name{author}{2}{}{%
+      {{hash=YI}{%
+         family={Yun},
+         familyi={Y\bibinitperiod},
+         given={Inyong},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=KJ}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={Joongkyu},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{YIKJ1}
+    \strng{fullhash}{YIKJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{YK17}
+    \field{sortinit}{Y}
+    \field{sortinithash}{Y}
+    \verb{doi}
+    \verb 10.1109/TENCON.2017.8228227
+    \endverb
+    \field{pages}{6}
+    \field{title}{VIsion-based 1D Barcode Localization Method for Scale and
+  Rotation Invariant}
+    \field{month}{11}
+    \field{year}{2017}
+  \endentry
+
+  \entry{FastAI:2020}{online}{}
+    \name{editor}{1}{}{%
+      {{hash=f}{%
+         family={fast.ai},
+         familyi={f\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{f1}
+    \strng{fullhash}{f1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{fas20}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{title}{FastAI}
+    \verb{url}
+    \verb https://www.fast.ai/
+    \endverb
+    \field{year}{2020}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+\enddatalist
+\endinput
